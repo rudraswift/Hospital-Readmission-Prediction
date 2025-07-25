@@ -1,6 +1,6 @@
 Project: Hospital Readmission Prediction
 
-Team Name: Team(SC1)3_5
+Team Name: Team(SC1)_3_5
 
 Team Members:
 1)Rudra Abhishek Badatia
