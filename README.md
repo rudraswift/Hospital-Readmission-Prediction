@@ -45,7 +45,7 @@ Outcome:
 Our model achieved ~85% accuracy in predicting readmission. Hospitals can use this to take proactive action with at-risk patients and reduce operational costs.
 
 Presentation:
-[Click to view our presentation and Demo video](https://drive.google.com/drive/folders/1Si-xYpG_fR4b_E0jC81ZGqfVLhVdYSLL?usp=sharing)
+[Click to view our presentation and Demo video](https://drive.google.com/drive/folders/1nrlWpv4yHBVcI_RwWnJnU4cJxhlIkiRi)
 
 How to Run:
 1. Clone the repository
